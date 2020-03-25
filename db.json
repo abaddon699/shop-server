@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "type": "admin",
+      "password": "$2a$08$XmcVMmRGbo8kCk0fMDcKvufwGjs93cuFejhi0qQ7b0fQvJ4ZV7JBm",
+      "cart": "20,6,19,16,4,2",
+      "id": 0
+    },
+    {
+      "name": "asd",
+      "type": "user",
+      "password": "$2a$08$9PSxkBW0DOHf2fMuYxK0Ju5SJVayj96PUvIuHHrBBLr0hkIdvLpXe",
+      "cart": "",
+      "id": 1
+    }
+  ],
+  "shop": [
+    {
+      "user": "admin",
+      "name": "car1",
+      "desc": "some car",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 1
+    },
+    {
+      "user": "admin",
+      "name": "car2",
+      "desc": "some longer description for this car",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 2
+    },
+    {
+      "user": "admin",
+      "name": "car3",
+      "desc": "this is a very long description for this car which duplicates. this is a very long description for this car which duplicates. this is a very long description for this car which duplicates.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 3
+    },
+    {
+      "user": "admin",
+      "name": "dodge car",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 4
+    },
+    {
+      "user": "admin",
+      "name": "car5",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "user": "admin",
+      "name": "car6",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 6
+    },
+    {
+      "user": "admin",
+      "name": "car7",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 7
+    },
+    {
+      "user": "admin",
+      "name": "dante",
+      "desc": "a person from some game",
+      "img": "geeeee.jpg",
+      "price": "111",
+      "id": 8
+    },
+    {
+      "user": "admin",
+      "name": "car8",
+      "desc": "sadfadfadads",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 9
+    },
+    {
+      "user": "admin",
+      "name": "car9",
+      "desc": "sadfadsadssdfadsadssadfadsadfadsadssadfadads",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 10
+    },
+    {
+      "user": "admin",
+      "name": "car10",
+      "desc": "this is a very long description for this car which duplicates. this is a very long description for this car which duplicates. this is a very long description for this car which duplicates.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 11
+    },
+    {
+      "user": "admin",
+      "name": "dodge car",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 12
+    },
+    {
+      "user": "admin",
+      "name": "car11",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 13
+    },
+    {
+      "user": "admin",
+      "name": "car12",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 14
+    },
+    {
+      "user": "admin",
+      "name": "car13",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 15
+    },
+    {
+      "user": "admin",
+      "name": "dante",
+      "desc": "a person from some game",
+      "img": "geeeee.jpg",
+      "price": "111",
+      "id": 16
+    },
+    {
+      "user": "admin",
+      "name": "car14",
+      "desc": "this is some description for this car which can be fitted in the cart, which it represent. the end.",
+      "img": "car.jpg",
+      "price": "100",
+      "id": 17
+    },
+    {
+      "user": "admin",
+      "name": "dante",
+      "desc": "a person from some game",
+      "img": "geeeee.jpg",
+      "price": "111",
+      "id": 18
+    },
+    {
+      "user": "admin",
+      "name": "Mountain",
+      "desc": "some description",
+      "img": "some.jpg",
+      "price": "10000",
+      "id": 19
+    },
+    {
+      "user": "admin",
+      "name": "galaxy",
+      "desc": "some description",
+      "img": "dfgfds.jpg",
+      "price": "10000",
+      "id": 20
+    },
+    {
+      "user": "admin",
+      "name": "somewhere in the galaxy",
+      "desc": "some description",
+      "img": "asdfasfads.jpg",
+      "price": "1333",
+      "id": 21
+    }
+  ]
+}
